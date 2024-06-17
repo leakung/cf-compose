@@ -1,1 +1,3 @@
-Edit CLOUDFLARE_TUNNEL_TOKEN in .env
+add your cloudflare tunnel token to .env
+
+CLOUDFLARE_TUNNEL_TOKEN=XXXX
